@@ -12,7 +12,8 @@ export const projects = [
   },
   {
     title: "watches store with Shopify ",
-    description: "example of a watches store with a custom logo design in Shopify",
+    description:
+      "example of a watches store with a custom logo design in Shopify,To see the Website enter 1 as a password when you click visit",
     image: "/images/watches.jpeg",
     tags: ["Shopify", "Liquid", "JavaScript"],
     source: "https://watches-de.myshopify.com/",
@@ -21,7 +22,7 @@ export const projects = [
   },
   {
     title: "Landing Page",
-    description: "Responsive Landing Page design with HTML and CSS ",
+    description: "Responsive Landing Page design with HTML and CSS",
     image: "/images/landing-page.jpeg",
     tags: ["Advance Css", "Html"],
     visit: "https://github.com/ahmedezzaouia/Landing-page-",
