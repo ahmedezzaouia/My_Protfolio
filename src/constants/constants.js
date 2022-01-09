@@ -3,7 +3,7 @@ export const projects = [
     title: "Shopify Store for a client ",
     description: "Shopify Store fo a client with a custom design and logo ",
     image: "/images/soukakech.png",
-    tags: ["Shopify", "Liquid", "JavaScript", "Photoshop"],
+    tags: ["Shopify", "Liquid", "JavaScript"],
     source:
       "https://photos.google.com/share/AF1QipNVH-vqQIY2MEgtjg5hZBw2WZIMmuUHjWAX36f5-LufNHoKmtvZO0DSZe5-wUZkMQ/photo/AF1QipMZ42TiXgGjYOeZWQKuvECTCq1pPnNuNVI0ML6K?key=VE81TlpKaGFqX3hacHhYZXhtYUsxbVEtR3gwOC13",
     visit:
