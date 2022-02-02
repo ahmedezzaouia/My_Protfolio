@@ -9,8 +9,8 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Welcome To <br />
-          My Personal Portfolio
+          Welcome To My <br />
+          Portfolio
         </SectionTitle>
         <SectionText>
           Hi My Name is Ahmed, I'm a Web Developer specialist in shopify. I love knowing that my work makes people's
