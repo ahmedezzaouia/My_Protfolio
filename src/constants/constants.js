@@ -11,6 +11,25 @@ export const projects = [
     id: 0,
   },
   {
+    title: "Shopify website with Storefront API ",
+    description: `I built this custom Store With React.JS and Typescript using the Shopify Storefront API, I took advantage of the Shopify Storefront API to make another website with the same products but in this case with React.Js Framework`,
+    image: "/images/ecommerco.jpg",
+    tags: ["React", "Typescript", "Material UI", "Context API"],
+    source: "https://ecommerco-app.netlify.app/",
+    visit: "https://github.com/ahmedezzaouia/Ecommerco-app-React-Shopify-StoreFront",
+    id: 3,
+  },
+  {
+    title: "Furniture Store",
+    description: `Furniture Store
+    it’s a Complete Shopify Store 2.0 built with Liquid, CSS, and Javascript, Fully Responsive on all Screens sizes With the help of CSS media query, every page you will see is built from scratch and hardcoded, for the password write 1`,
+    image: "/images/furniture.jpg",
+    tags: ["Liquid", "Boostrap 5", "CSS3", "javascript"],
+    source: "https://fourniture-store.myshopify.com/",
+    visit: "https://github.com/ahmedezzaouia/Custom-Shopify-Fourniture-Store",
+    id: 3,
+  },
+  {
     title: "watches store with Shopify ",
     description:
       "example of a watches store with a custom logo design in Shopify,To see the Website enter 1 as a password when you click visit",
@@ -29,15 +48,7 @@ export const projects = [
     source: "https://ahmedezzaouia.github.io/Landing-page-/",
     id: 2,
   },
-  {
-    title: "Bankist FrontEnd Website",
-    description: "Bankist FrontEnd Website is an advance Javascipt concept, Like lazy images and scroller.. ",
-    image: "/images/bankist-app.jpeg",
-    tags: ["CSS", "HTML", "Advance JavaScript"],
-    visit: "https://github.com/ahmedezzaouia/Bankist-FrontEnd-Website",
-    source: "https://ahmedezzaouia.github.io/Bankist-FrontEnd-Website/",
-    id: 3,
-  },
+
   {
     title: "Shopify Product Page",
     description: "Custom Product Page design and functionality in Shopify with Bootstrap",
@@ -49,10 +60,10 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+// export const TimeLineData = [
+//   { year: 2017, text: "Started my journey" },
+//   { year: 2018, text: "Worked as a freelance developer" },
+//   { year: 2019, text: "Founded JavaScript Mastery" },
+//   { year: 2020, text: "Shared my projects with the world" },
+//   { year: 2021, text: "Started my own platform" },
+// ];
